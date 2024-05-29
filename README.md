@@ -36,8 +36,6 @@ This feature pertains to the ability to select fonts for a Joget application. Wh
 Users have the flexibility to choose fonts directly from a curated list of Google Fonts, which are hosted by Google and readily available for integration into the Joget application. They can browse through the list and select the font that best suits their design preferences and requirements.
 
 ### 4. Form Field/Label Settings
-**Label on Top**
-The "Label on Top" design style positions the label of a form field above the input field itself. In this layout, the label occupies the full width of the container, providing a clear and prominent identifier for the corresponding input field below
 
 **Rounded Field Design**
 The "Rounded Field Design" is characterized by form fields with rounded corners, providing a softer and more modern aesthetic compared to traditional rectangular field designs. In this style, the corners of the input fields are rounded to create a visually appealing and cohesive appearance across the form.
