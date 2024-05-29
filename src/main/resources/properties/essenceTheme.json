@@ -41,7 +41,7 @@
     },
     {
         name : 'darkMode',
-        label : '@@theme.ajaxUniversalTheme.darkTheme.darkTheme@@',
+        label : '@@theme.essenceTheme.darkTheme@@',
         type : 'checkbox',
         options : [{
             value : 'true',
@@ -50,7 +50,7 @@
     },
     {
         name : 'compactTheme',
-        label : '@@theme.ajaxUniversalTheme.compactTheme@@',
+        label : '@@theme.essenceTheme.compactTheme@@',
         type : 'checkbox',
         options : [{
             value : 'true',
@@ -63,7 +63,7 @@
     },
     {
         name : 'usingLocalFonts',
-        label : '@@theme.ajaxUniversalTheme.usingLocalFonts@@',
+        label : '@@theme.essenceTheme.usingLocalFonts@@',
         type : 'checkbox',
         value : 'true',
         options : [{
