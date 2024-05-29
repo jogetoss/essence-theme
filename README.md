@@ -57,9 +57,6 @@ Users can choose to use either local(Font Name: Inter) or Google Fonts.
 **Google Fonts(option)**:  
 This option will only be visible when the above option is disabled. Before utilizing this feature, users must fill in the Google Font API Key in the General Settings > UI section. Once completed, users will have access to thousands of font options to choose from.
 
-**Label on Top(checkbox)**:  
-When this is enabled, the label and field occupy the full width of the container.
-
 **Rounded Field Design(checkbox)**:  
 When this is enabled, the corners of the input fields are rounded.
 
