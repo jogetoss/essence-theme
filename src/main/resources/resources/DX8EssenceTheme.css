@@ -1283,6 +1283,15 @@ body.dark-mode input:focus, body.dark-mode select:focus, body.dark-mode textarea
 body.dark-mode .dataList:not(.size_sm) tr.odd td {
     background-color: #191b20;
 }
+body.dark-mode .grid table tr.even td {
+    background-color: #191b20;
+}
+body.dark-mode .grid table tr.odd td {
+    background-color: transparent;
+}
+body.dark-mode .grid table tr:hover td {
+    background-color: var(--theme-background);
+}
 body.dark-mode .dataList span.pagelinks a {
     border: 0px !important;
 }
